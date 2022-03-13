@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamesCódigoAPI", "ExamesCódigoAPI\ExamesCódigoAPI.csproj", "{CD8334A4-4433-44B0-9E63-1D3673FFE6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8334A4-4433-44B0-9E63-1D3673FFE6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8334A4-4433-44B0-9E63-1D3673FFE6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8334A4-4433-44B0-9E63-1D3673FFE6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8334A4-4433-44B0-9E63-1D3673FFE6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7197A18F-BE8A-42AC-A747-89D3E5FB552C}
+	EndGlobalSection
+EndGlobal
